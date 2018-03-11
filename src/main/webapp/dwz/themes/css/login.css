@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px;padding:0px}
+body{ font-size:13px; font-family:"微软雅黑";color:#323232; background:url(../../../img/image/bj.png) no-repeat; background-size:cover;}
+img{border:none}
+.fl{ float:left}
+.fr{float:right}
+.clearfix{ clear:both;} 
+
+.auto{width:722px; height:415px;position:fixed; top:50%;left:50%; margin-top:-207px; margin-left:-361px; background:url(../../../img/image/box-bj.png);}
+.left{width:210px;}
+.right{width:512px;}
+.logo{width:130px;height:130px;  margin:150px 32px 0 80px;}
+.logo img{width:130px;}
+.title{ text-align:center; margin:2em 0 1.1em; font-size:2.5em; font-weight:normal;}
+.content{ margin-left:74px;}
+.box{ width:180px; height:30px; line-height:30px; background-color:#fff; border-radius:3px; border:1px solid #dedede; padding-left:1em; color:#acb4b9; margin-bottom:2em;}
+.box1{ width:100px; height:30px; line-height:30px; background-color:#fff; border-radius:3px; border:1px solid #dedede; padding-left:1em; color:#acb4b9; margin-bottom:2em;}
+.yzm{width:70px; height:30px; margin-left:10px;border-radius:3px; border:1px solid #dedede; }
+.btn{width:90px;height:90px;border-radius:10px;border:none;background:url(../../../img/image/btn.png); font-size:1.5em;color:#fff;font-family:"微软雅黑"; margin-left:20px; cursor:pointer;}
+.bq{ text-align:center; margin-top:28px;color:#999;}
